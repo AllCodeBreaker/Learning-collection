@@ -16,6 +16,7 @@ This is a repository that contains a collection of github repositories for learn
 
 ## Assembly Language
 - [assembly-tutorial by mschwartz](https://github.com/mschwartz/assembly-tutorial)
+- [NASM tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
   
 
 ## Algorithms
