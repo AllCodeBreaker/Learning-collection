@@ -10,6 +10,7 @@ This is a repository that contains a collection of github repositories for learn
 
 
 ## System Designing
+- [System design academy](https://github.com/systemdesign42/system-design-academy)
 - [system-design by karanpratapsingh](https://github.com/karanpratapsingh/system-design)
 - [system-design-resources by InterviewReady](https://github.com/InterviewReady/system-design-resources)
 - [system-design-101 by ByteByteGoHq](https://github.com/ByteByteGoHq/system-design-101)
